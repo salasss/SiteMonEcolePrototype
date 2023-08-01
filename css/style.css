@@ -210,17 +210,12 @@ header{
 
 .cours_container{
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(3,1fr);
     gap: 1rem;
 }
 
 
-.cour_img img{
-    width: 17rem;
-    margin-left: auto;
-  margin-right: auto;   
 
-}
 
 .cour{
     background: var(--color-bg1);
